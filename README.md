@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tell me if you wanna run away with me tonight
+> Underneath the city stars, everything is feeling right
+> I can feel the tension, it's an aroma of romance
+> Give me just one look and let us fall into the trance
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
